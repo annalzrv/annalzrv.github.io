@@ -3,7 +3,7 @@
 
 This project is focused on creating an interactive geospatial map to visualize earthquake events around the world. The inspiration for this project came after I experienced my first earthquake in Los Angeles, which sparked my interest in understanding seismic activities through data.
 
-[Check out the interactive map here:-)](https://annalzrv.github.io/earthquake_map.html)
+[Check out the interactive map here](https://annalzrv.github.io/earthquake_map.html) :-)
 
 ## Project Overview
 
